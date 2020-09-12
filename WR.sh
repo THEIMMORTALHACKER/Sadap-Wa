@@ -1,11 +1,13 @@
 #!/bin/bash
 clear
+Angota ku ..
+THE IMMORTAL HACKER
 echo "
 <-- Ganteng -->
 ############>>>>>>>>
 #  Whatsapp Code # THE IMMORTAL HACKER
 #  github     # github.comTHEIMMORTALHACKER
-###########°°°°°°°°°°°
+###########°°°°°°°°°°°°°°°°°
 Copyright (c) 2018 ./THEIMMORTAL.HACKER";
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
