@@ -1,5 +1,6 @@
 #!/bin/bash
 clear
+echo "
 Angota ku ..
 THE IMMORTAL HACKER
 echo "
