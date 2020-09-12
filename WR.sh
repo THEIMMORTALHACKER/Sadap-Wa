@@ -1,11 +1,8 @@
 #!/bin/bash
 clear
 echo "
-Angota ku ..
-THE IMMORTAL HACKER
-echo "
-<-- Ganteng -->
-############>>>>>>>>
+<-- sadap-WA -->
+############>>>>>>
 #  Whatsapp Code # THE IMMORTAL HACKER
 #  github     # github.comTHEIMMORTALHACKER
 ###########°°°°°°°°°°°°°°°°°
